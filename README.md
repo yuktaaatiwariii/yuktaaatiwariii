@@ -383,3 +383,36 @@ Exploring a non-MERN architecture with URL shortening, redirects, PostgreSQL and
 
 ```text
 "I'll just add one small feature."
+
+The feature:
+Authentication
+      ↓
+Redis
+      ↓
+Rate Limiting
+      ↓
+Idempotency
+      ↓
+Audit Logs
+      ↓
+KYC
+      ↓
+Docker
+      ↓
+Queues
+      ↓
+System Design
+      ↓
+"Wait... we're building a platform."
+
+<br>
+
+And somehow... I enjoyed every second of it. ⚡
+
+</div>
+
+<div align="center"> <img src="https://raw.githubusercontent.com/yuktaaatiwariii/yuktaaatiwariii/output/github-contribution-grid-snake.svg" alt="Contribution Snake"> <br>
+
+<i>Apparently even my contributions need a predator.</i> 🐍
+
+</div>
