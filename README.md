@@ -261,16 +261,6 @@ Exploring a non-MERN architecture with URL shortening, redirects, PostgreSQL and
 
 ---
 
-# 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuktaaatiwariii&bg_color=0D0D0D&color=F5F1E8&line=C86B3C&point=C86B3C&area=true&hide_border=true&custom_title=YUKTA%27S%20CONTRIBUTION%20ACTIVITY" width="96%">
-
-</div>
-
----
-
 # 🛰️ GITHUB COMMAND CENTER
 
 <div align="center">
@@ -384,7 +374,6 @@ Exploring a non-MERN architecture with URL shortening, redirects, PostgreSQL and
 
 ### I said:
 
-```text
 "I'll just add one small feature."
 
 The feature:
