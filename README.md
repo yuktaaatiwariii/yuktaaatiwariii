@@ -285,7 +285,7 @@ Exploring a non-MERN architecture with URL shortening, redirects, PostgreSQL and
 
 <a href="https://github.com/yuktaaatiwariii?tab=repositories">
 
-<img src="https://img.shields.io/github/repos/yuktaaatiwariii?style=for-the-badge&logo=github&label=PUBLIC%20REPOSITORIES&color=C86B3C">
+<img src="https://img.shields.io/badge/REPOSITORIES-VIEW%20ALL-C86B3C?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
