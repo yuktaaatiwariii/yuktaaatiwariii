@@ -385,29 +385,29 @@ Exploring a non-MERN architecture with URL shortening, redirects, PostgreSQL and
 The feature:
 <div align="center">
 
-<p>
-  <strong>Authentication</strong>
-  ↓
-  <strong>Redis</strong>
-  ↓
-  <strong>Rate Limiting</strong>
-  ↓
-  <strong>Idempotency</strong>
-  ↓
-  <strong>Audit Logs</strong>
-  ↓
-  <strong>KYC</strong>
-  ↓
-  <strong>Docker</strong>
-  ↓
-  <strong>Queues</strong>
-  ↓
-  <strong>System Design</strong>
-</p>
+<table>
+<tr>
+<td align="center"><b>🔐 Authentication</b></td>
+<td>→</td>
+<td align="center"><b>⚡ Redis</b></td>
+<td>→</td>
+<td align="center"><b>🛡️ Rate Limiting</b></td>
+<td>→</td>
+<td align="center"><b>🔁 Idempotency</b></td>
+<td>→</td>
+<td align="center"><b>📝 Audit Logs</b></td>
+<td>→</td>
+<td align="center"><b>🪪 KYC</b></td>
+<td>→</td>
+<td align="center"><b>🐳 Docker</b></td>
+<td>→</td>
+<td align="center"><b>📬 Queues</b></td>
+<td>→</td>
+<td align="center"><b>🏗️ System Design</b></td>
+</tr>
+</table>
 
-<p>
-  <strong>↓ Wait... we're building a platform.</strong>
-</p>
+<p><i>↓ Wait... we're building a platform.</i></p>
 
 </div>
 
