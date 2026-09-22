@@ -245,9 +245,15 @@ Exploring a non-MERN architecture with URL shortening, redirects, PostgreSQL and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuktaaatiwariii&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=C86B3C&icon_color=766D83&text_color=F5F1E8&bg_color=0D0D0D" width="49%">
+<img
+  src="./profile/stats.svg"
+  width="49%"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuktaaatiwariii&layout=compact&langs_count=8&hide_border=true&title_color=C86B3C&text_color=F5F1E8&bg_color=0D0D0D" width="40%">
+<img
+  src="./profile/top-langs.svg"
+  width="49%"
+/>
 
 </div>
 
