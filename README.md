@@ -383,7 +383,7 @@ Exploring a non-MERN architecture with URL shortening, redirects, PostgreSQL and
 "I'll just add one small feature."
 
 The feature:
-Authentication
+"Authentication
       ↓
 Redis
       ↓
@@ -399,7 +399,7 @@ Docker
       ↓
 Queues
       ↓
-System Design
+System Design"
       ↓
 "Wait... we're building a platform."
 
@@ -409,8 +409,31 @@ And somehow... I enjoyed every second of it. ⚡
 
 </div>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/yuktaaatiwariii/yuktaaatiwariii/output/github-contribution-grid-snake.svg" alt="Contribution Snake"> <br>
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
-<i>Apparently even my contributions need a predator.</i> 🐍
+<div align="center">
+
+<p>
+  <i>Apparently even my contributions need a predator.</i> 🐍
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yuktaaatiwariii/yuktaaatiwariii/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yuktaaatiwariii/yuktaaatiwariii/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/yuktaaatiwariii/yuktaaatiwariii/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</picture>
 
 </div>
+
