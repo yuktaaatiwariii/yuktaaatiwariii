@@ -383,25 +383,33 @@ Exploring a non-MERN architecture with URL shortening, redirects, PostgreSQL and
 "I'll just add one small feature."
 
 The feature:
-"Authentication
-      ↓
-Redis
-      ↓
-Rate Limiting
-      ↓
-Idempotency
-      ↓
-Audit Logs
-      ↓
-KYC
-      ↓
-Docker
-      ↓
-Queues
-      ↓
-System Design"
-      ↓
-"Wait... we're building a platform."
+<div align="center">
+
+<p>
+  <strong>Authentication</strong>
+  ↓
+  <strong>Redis</strong>
+  ↓
+  <strong>Rate Limiting</strong>
+  ↓
+  <strong>Idempotency</strong>
+  ↓
+  <strong>Audit Logs</strong>
+  ↓
+  <strong>KYC</strong>
+  ↓
+  <strong>Docker</strong>
+  ↓
+  <strong>Queues</strong>
+  ↓
+  <strong>System Design</strong>
+</p>
+
+<p>
+  <strong>↓ Wait... we're building a platform.</strong>
+</p>
+
+</div>
 
 <br>
 
