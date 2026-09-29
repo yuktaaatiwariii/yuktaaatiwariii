@@ -369,6 +369,7 @@ Exploring a non-MERN architecture with URL shortening, redirects, PostgreSQL and
 `Transaction Queues`  
 `Offline Systems`  
 `Hybrid Cryptography`
+`SEO & Development`
 
 </div>
 
