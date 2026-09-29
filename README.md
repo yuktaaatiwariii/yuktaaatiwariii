@@ -35,7 +35,7 @@
 
 ---
 
-## ⚡ THE DEVELOPER BEHIND THE CODE
+## ⚡ THE DEVELOPER BEHIND THE CODE ⚡
 
 <div align="center">
 
