@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-C86B3C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://yuktatiwariii-portfolio.netlify.app/">
+<a href="https://portfolio-yukta.onrender.com">
 <img src="https://img.shields.io/badge/PORTFOLIO-766D83?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
