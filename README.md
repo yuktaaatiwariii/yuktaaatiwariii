@@ -82,7 +82,7 @@ I like understanding **what happens behind them.**
 
 <br>
 
-<a href="https://github.com/yuktaaatiwariii/LedgerPay-Digital-Payments-Platform">
+<a href="https://ledgerpay-digital-payments-platform-4l5z.onrender.com">
 
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-C86B3C?style=for-the-badge&logo=github&logoColor=white">
 
