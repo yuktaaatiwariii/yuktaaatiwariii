@@ -353,7 +353,7 @@ Exploring a non-MERN architecture with URL shortening, redirects, PostgreSQL and
 
 </div>
 
----
+
 
 # 🧪 WHAT I'M EXPLORING
 
@@ -372,7 +372,7 @@ Exploring a non-MERN architecture with URL shortening, redirects, PostgreSQL and
 
 </div>
 
----
+
 
 # 💀 THE CHAOS CORNER
 
